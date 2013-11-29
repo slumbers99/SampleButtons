@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="base">#ffffff</color>
+    <color name="highlight">#ff0000</color>
+    
+    <color name="text">@color/base</color>
+    <color name="text_highlight">@color/highlight</color>
+    
+</resources>
